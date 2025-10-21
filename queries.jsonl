@@ -1,0 +1,55 @@
+{"customer_id":"u1","message":"I forgot my password, help!"}
+{"customer_id":"u2","message":"Why won’t my app open after the latest update?"}
+{"customer_id":"u3","message":"How can I change the shipping address on my order?"}
+{"customer_id":"u4","message":"My shipment says delivered but I haven’t received it."}
+{"customer_id":"u5","message":"Is there a sale this weekend?"}
+{"customer_id":"u6","message":"The server is down—ticketing system not reachable."}
+{"customer_id":"u7","message":"I want a refund; nothing arrived."}
+{"customer_id":"u8","message":"Can I get a promo code for bulk orders?"}
+{"customer_id":"u9","message":"Forgot login info—can’t access account."}
+{"customer_id":"u10","message":"Do you have expedited shipping options?"}
+{"customer_id":"u11","message":"I can’t log into my dashboard, keeps saying wrong password."}
+{"customer_id":"u12","message":"Please help me reset my password—it’s not accepting the old one."}
+{"customer_id":"u13","message":"I lost access after changing my phone, how do I recover my account?"}
+{"customer_id":"u14","message":"Two-factor authentication code not arriving, any workaround?"}
+{"customer_id":"u15","message":"App keeps crashing every time I tap ‘My Orders’."}
+{"customer_id":"u16","message":"Website is loading extremely slow today—are servers down?"}
+{"customer_id":"u17","message":"Payment gateway stuck on loading screen after entering card details."}
+{"customer_id":"u18","message":"My ticket ID page returns 500 error since morning."}
+{"customer_id":"u19","message":"How do I update my delivery address for an existing order?"}
+{"customer_id":"u20","message":"My package has been in transit for a week with no updates."}
+{"customer_id":"u21","message":"I received a damaged item—what’s the process to get a replacement?"}
+{"customer_id":"u22","message":"Order marked as delivered but I never got it."}
+{"customer_id":"u23","message":"I was charged twice for one purchase, need a refund ASAP."}
+{"customer_id":"u24","message":"How long do refunds take after cancelling an order?"}
+{"customer_id":"u25","message":"Got refund confirmation but money isn’t in my account yet."}
+{"customer_id":"u26","message":"Payment failed but amount deducted from my bank."}
+{"customer_id":"u27","message":"Is there a festive sale coming up next month?"}
+{"customer_id":"u28","message":"Can I apply multiple promo codes on a single order?"}
+{"customer_id":"u29","message":"Do you offer discounts for student accounts?"}
+{"customer_id":"u30","message":"When does the weekend flash sale start?"}
+{"customer_id":"u31","message":"Where can I find your data deletion policy?"}
+{"customer_id":"u32","message":"How do I deactivate my subscription temporarily?"}
+{"customer_id":"u33","message":"Can I merge two accounts with the same email?"}
+{"customer_id":"u34","message":"What’s your policy for international returns?"}
+{"customer_id":"u35","message":"The update notes mentioned new features—how do I access them?"}
+{"customer_id":"u36","message":"App login works on web but not on phone."}
+{"customer_id":"u37","message":"My friend got a refund for the same issue but I didn’t."}
+{"customer_id":"u38","message":"Everything was fine yesterday; now none of the pages load."}
+{"customer_id":"u39","message":"My payment failed, refund still pending, and the app crashes on retry."}
+{"customer_id":"u40","message":"I forgot my password and the server status page shows downtime—can’t reset it."}
+{"customer_id":"u41","message":"Shipment delayed again; is there any promo for late deliveries?"}
+{"customer_id":"u42","message":"Refund request still unprocessed and I’m locked out of my account."}
+{"customer_id":"u43","message":"Received wrong color item—do I return or exchange?"}
+{"customer_id":"u44","message":"Live chat support keeps disconnecting midway."}
+{"customer_id":"u45","message":"I want to delete my saved cards from the app."}
+{"customer_id":"u46","message":"Unable to verify my email—link expired."}
+{"customer_id":"u47","message":"Are your servers under maintenance right now?"}
+{"customer_id":"u48","message":"Does express delivery apply to international orders too?"}
+
+
+{"customer_id":"u15","message":"App keeps crashing every time I tap ‘My Orders’."}
+{"customer_id": "test1", "message": "cant login"}
+{"customer_id": "test2", "message": "wheres my order"}
+{"customer_id": "test1", "message": "cant login"}
+{"customer_id": "test2", "message": "wheres my order"}
