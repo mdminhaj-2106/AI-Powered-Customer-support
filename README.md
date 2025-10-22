@@ -1,12 +1,11 @@
-# AdaShield - Intelligent Customer Support Agent
+# AdaShield(Task 4) - Intelligent Customer Support Agent
 
 Real-time AI-powered customer support system with intent classification, RAG-based retrieval, and live status monitoring.
 
-> **Note:** This system uses a transparent proxy architecture that makes interactions feel like conversing with a powerful GPT-like model, while actually combining lightweight GRU classification with semantic retrieval.
 
 ## Overview
 
-AdaShield automatically responds to customer queries by understanding intent, retrieving relevant information from FAQs, and prioritizing live system alerts when needed.
+This automatically responds to customer queries by understanding intent, retrieving relevant information from FAQs, and prioritizing live system alerts when needed.
 
 **Core Capabilities:**
 - Intent classification using Bidirectional GRU neural network
@@ -15,15 +14,16 @@ AdaShield automatically responds to customer queries by understanding intent, re
 - Streaming query processing via Pathway framework (tested: 500+ queries in 8 seconds)
 
 ## Quick Start
-
-**Requirements:** Docker, 4GB RAM
-
-1. Build the image:
+1. Clone the Repo:
+```bash
+git clone https://github.com/mdminhaj-2106/AI-Powered-Customer-support.git
+```
+2. Build the image:
 ```bash
 docker build -t adashield .
 ```
 
-2. Run the container:
+3. Run the container:
 ```bash
 docker run --rm --user $(id -u):$(id -g) \
   -v "$(pwd)/status.txt:/app/status.txt" \
@@ -39,7 +39,7 @@ docker run --rm --user $(id -u):$(id -g) \
 > - `policy_docs/faq.md` - Sample FAQ documentation
 > - `chat_history.jsonl` - Empty, will be populated by the agent
 
-## Architecture
+## Algorithm
 
 ```mermaid
 graph TD
@@ -197,13 +197,3 @@ tail -f chat_history.jsonl | jq '.'
 | No responses generated | Check JSON format in `queries.jsonl` |
 | UID warnings | Safe to ignore (Docker filesystem warnings) |
 | Slow processing | First run loads models (~5s), subsequent queries are fast |
-
-## Performance
-
-- **Latency:** ~50-200ms per query (after model loading)
-- **Throughput:** 500+ queries in 8 seconds
-- **Memory:** ~2GB for models and embeddings
-
-## Technical Report
-
-For detailed architecture, mathematical formulations, and scalability analysis, refer to the technical report document.
