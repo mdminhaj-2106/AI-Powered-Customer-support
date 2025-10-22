@@ -294,10 +294,6 @@ results = best_faq.join(
 
 
 
-
-
-
-
 # ================= SUGAR COATING =======================
 ## Helpers for sugar coating the (intent, faq, status) vector
 
@@ -365,10 +361,6 @@ final_replies = results.select(
 
 
 #========== DEBUGS AND WRITE THE REPLIES INTO chat_history.jsonl================
-print("\nWriting outputs to: ./chat_history.jsonl")
-if os.path.exists("./chat_history.jsonl"):
-    os.remove("./chat_history.jsonl")
-
 print("\nWriting outputs to: ./chat_history.jsonl")
 pw.io.jsonlines.write(final_replies, "./chat_history.jsonl")
 

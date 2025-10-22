@@ -1,100 +1,100 @@
-{"customer_id": "u1", "message": "I forgot my password, can you help me reset it?"},
-{"customer_id": "u2", "message": "The app crashes immediately after the latest update."},
-{"customer_id": "u3", "message": "How can I change the delivery address for my current order?"},
-{"customer_id": "u4", "message": "My order shows delivered but I haven’t received it yet."},
-{"customer_id": "u5", "message": "Is there any sale or discount happening this weekend?"},
-{"customer_id": "u6", "message": "The server seems down, I can’t access the ticketing system."},
-{"customer_id": "u7", "message": "I need a refund since my parcel never arrived."},
-{"customer_id": "u8", "message": "Do you offer promo codes for large or bulk purchases?"},
-{"customer_id": "u9", "message": "I can’t remember my login credentials, please assist."},
-{"customer_id": "u10", "message": "Do you provide same-day or express delivery options?"},
-{"customer_id": "u11", "message": "I can’t log in; it keeps saying my password is wrong."},
-{"customer_id": "u12", "message": "Reset link isn’t working when I try to change my password."},
-{"customer_id": "u13", "message": "Lost access to my account after switching phones."},
-{"customer_id": "u14", "message": "Two-factor code isn’t arriving—what should I do?"},
-{"customer_id": "u15", "message": "App freezes every time I open the Orders tab."},
-{"customer_id": "u16", "message": "Your website is extremely slow today—is there maintenance ongoing?"},
-{"customer_id": "u17", "message": "Payment page stuck while loading after card details entry."},
-{"customer_id": "u18", "message": "My ticket page keeps showing 500 internal server error."},
-{"customer_id": "u19", "message": "Can I update my shipping address after placing an order?"},
-{"customer_id": "u20", "message": "My parcel hasn’t moved from ‘in transit’ status for days."},
-{"customer_id": "u21", "message": "I received a broken product—how do I request a replacement?"},
-{"customer_id": "u22", "message": "The order says delivered but nothing showed up."},
-{"customer_id": "u23", "message": "Charged twice for one item, need an urgent refund."},
-{"customer_id": "u24", "message": "How long does it take for a refund after cancellation?"},
-{"customer_id": "u25", "message": "Refund confirmed but not reflected in my bank account yet."},
-{"customer_id": "u26", "message": "Payment failed but the money got deducted from my wallet."},
-{"customer_id": "u27", "message": "Do you have any upcoming festive or clearance sales?"},
-{"customer_id": "u28", "message": "Can I use multiple coupons on the same purchase?"},
-{"customer_id": "u29", "message": "Do students get any exclusive discounts?"},
-{"customer_id": "u30", "message": "When does the flash sale start this weekend?"},
-{"customer_id": "u31", "message": "Where can I read your privacy or data deletion policy?"},
-{"customer_id": "u32", "message": "Is it possible to pause my subscription for a month?"},
-{"customer_id": "u33", "message": "Can I merge two accounts under the same email address?"},
-{"customer_id": "u34", "message": "What’s your policy for returns from outside the country?"},
-{"customer_id": "u35", "message": "How can I enable the new beta features from the update notes?"},
-{"customer_id": "u36", "message": "Login works fine on the website but fails on mobile."},
-{"customer_id": "u37", "message": "My friend got a refund for the same issue but mine is still pending."},
-{"customer_id": "u38", "message": "None of the pages load after today’s update, what’s wrong?"},
-{"customer_id": "u39", "message": "Payment keeps failing and crashes the app after retry."},
-{"customer_id": "u40", "message": "I forgot my password and your reset server seems to be down."},
-{"customer_id": "u41", "message": "My shipment is delayed again, any compensation or coupon?"},
-{"customer_id": "u42", "message": "Refund request pending for a week and I’m locked out of my account."},
-{"customer_id": "u43", "message": "Received the wrong color, should I return or exchange it?"},
-{"customer_id": "u44", "message": "Live chat disconnects randomly while I’m talking to support."},
-{"customer_id": "u45", "message": "How can I delete or remove saved payment cards?"},
-{"customer_id": "u46", "message": "Email verification link expired before I could click it."},
-{"customer_id": "u47", "message": "Are your servers currently under maintenance?"},
-{"customer_id": "u48", "message": "Does express shipping apply for international orders?"},
-{"customer_id": "u49", "message": "Is there a loyalty program for frequent buyers?"},
-{"customer_id": "u50", "message": "My referral bonus didn’t get credited after signup."},
-{"customer_id": "u51", "message": "Do you have a dedicated business account option?"},
-{"customer_id": "u52", "message": "App notifications stopped showing since yesterday’s patch."},
-{"customer_id": "u53", "message": "Why can’t I add items to my cart anymore?"},
-{"customer_id": "u54", "message": "How do I track a replacement order that was just shipped?"},
-{"customer_id": "u55", "message": "Got the wrong item in the box, how do I report this?"},
-{"customer_id": "u56", "message": "My order has been stuck in ‘processing’ for three days."},
-{"customer_id": "u57", "message": "How do I get an invoice copy for my purchase?"},
-{"customer_id": "u58", "message": "Can I cancel an order that hasn’t shipped yet?"},
-{"customer_id": "u59", "message": "How do I apply store credits to my next purchase?"},
-{"customer_id": "u60", "message": "I was charged tax incorrectly—how can I fix that?"},
-{"customer_id": "u61", "message": "Why is my account temporarily suspended?"},
-{"customer_id": "u62", "message": "Do you accept PayPal or crypto payments?"},
-{"customer_id": "u63", "message": "App says ‘network error’ despite stable internet."},
-{"customer_id": "u64", "message": "Can I pre-order items before official launch?"},
-{"customer_id": "u65", "message": "How do I remove an address from my saved list?"},
-{"customer_id": "u66", "message": "App language changed automatically, how to revert it?"},
-{"customer_id": "u67", "message": "My membership tier didn’t upgrade after payment."},
-{"customer_id": "u68", "message": "I can’t upload my ID for verification, it keeps failing."},
-{"customer_id": "u69", "message": "Does support operate on weekends too?"},
-{"customer_id": "u70", "message": "Where can I submit feedback or feature requests?"},
-{"customer_id": "u71", "message": "Can I update my profile photo from the app?"},
-{"customer_id": "u72", "message": "How do I unlink my social media login from the account?"},
-{"customer_id": "u73", "message": "The app doesn’t recognize my fingerprint login anymore."},
-{"customer_id": "u74", "message": "Website shows ‘Too Many Requests’ error repeatedly."},
-{"customer_id": "u75", "message": "Why did my subscription renew without confirmation?"},
-{"customer_id": "u76", "message": "How do I download my complete order history?"},
-{"customer_id": "u77", "message": "Do you offer COD (cash on delivery) on all items?"},
-{"customer_id": "u78", "message": "What should I do if I accidentally ordered twice?"},
-{"customer_id": "u79", "message": "My app session expires every few minutes automatically."},
-{"customer_id": "u80", "message": "Do you have a dark mode option in the app?"},
-{"customer_id": "u81", "message": "I received a partial refund only, where’s the rest?"},
-{"customer_id": "u82", "message": "Is my personal data shared with third parties?"},
-{"customer_id": "u83", "message": "I keep getting logged out after every update."},
-{"customer_id": "u84", "message": "Do you provide bulk gift card options for corporates?"},
-{"customer_id": "u85", "message": "My promo code says invalid even though it’s new."},
-{"customer_id": "u86", "message": "Can I reschedule my delivery date after it’s shipped?"},
-{"customer_id": "u87", "message": "Where can I update my contact number?"},
-{"customer_id": "u88", "message": "Is there a manual for using the new dashboard features?"},
-{"customer_id": "u89", "message": "How can I verify if a seller is trusted on your platform?"},
-{"customer_id": "u90", "message": "My payment method keeps getting declined without reason."},
-{"customer_id": "u91", "message": "Is there an option to pick up from your warehouse directly?"},
-{"customer_id": "u92", "message": "Can I split payment between two cards?"},
-{"customer_id": "u93", "message": "I want to permanently delete my account data."},
-{"customer_id": "u94", "message": "How do I contact your legal or data protection officer?"},
-{"customer_id": "u95", "message": "My referral link isn’t tracking new users correctly."},
-{"customer_id": "u96", "message": "Can I upgrade my plan mid-subscription?"},
-{"customer_id": "u97", "message": "How do I stop promotional SMS notifications?"},
-{"customer_id": "u98", "message": "I want to request access to my stored data under GDPR."},
-{"customer_id": "u99", "message": "My coupon got applied but the price didn’t change."},
+{"customer_id": "u1", "message": "I forgot my password, can you help me reset it?"}
+{"customer_id": "u2", "message": "The app crashes immediately after the latest update."}
+{"customer_id": "u3", "message": "How can I change the delivery address for my current order?"}
+{"customer_id": "u4", "message": "My order shows delivered but I haven’t received it yet."}
+{"customer_id": "u5", "message": "Is there any sale or discount happening this weekend?"}
+{"customer_id": "u6", "message": "The server seems down, I can’t access the ticketing system."}
+{"customer_id": "u7", "message": "I need a refund since my parcel never arrived."}
+{"customer_id": "u8", "message": "Do you offer promo codes for large or bulk purchases?"}
+{"customer_id": "u9", "message": "I can’t remember my login credentials, please assist."}
+{"customer_id": "u10", "message": "Do you provide same-day or express delivery options?"}
+{"customer_id": "u11", "message": "I can’t log in; it keeps saying my password is wrong."}
+{"customer_id": "u12", "message": "Reset link isn’t working when I try to change my password."}
+{"customer_id": "u13", "message": "Lost access to my account after switching phones."}
+{"customer_id": "u14", "message": "Two-factor code isn’t arriving—what should I do?"}
+{"customer_id": "u15", "message": "App freezes every time I open the Orders tab."}
+{"customer_id": "u16", "message": "Your website is extremely slow today—is there maintenance ongoing?"}
+{"customer_id": "u17", "message": "Payment page stuck while loading after card details entry."}
+{"customer_id": "u18", "message": "My ticket page keeps showing 500 internal server error."}
+{"customer_id": "u19", "message": "Can I update my shipping address after placing an order?"}
+{"customer_id": "u20", "message": "My parcel hasn’t moved from ‘in transit’ status for days."}
+{"customer_id": "u21", "message": "I received a broken product—how do I request a replacement?"}
+{"customer_id": "u22", "message": "The order says delivered but nothing showed up."}
+{"customer_id": "u23", "message": "Charged twice for one item, need an urgent refund."}
+{"customer_id": "u24", "message": "How long does it take for a refund after cancellation?"}
+{"customer_id": "u25", "message": "Refund confirmed but not reflected in my bank account yet."}
+{"customer_id": "u26", "message": "Payment failed but the money got deducted from my wallet."}
+{"customer_id": "u27", "message": "Do you have any upcoming festive or clearance sales?"}
+{"customer_id": "u28", "message": "Can I use multiple coupons on the same purchase?"}
+{"customer_id": "u29", "message": "Do students get any exclusive discounts?"}
+{"customer_id": "u30", "message": "When does the flash sale start this weekend?"}
+{"customer_id": "u31", "message": "Where can I read your privacy or data deletion policy?"}
+{"customer_id": "u32", "message": "Is it possible to pause my subscription for a month?"}
+{"customer_id": "u33", "message": "Can I merge two accounts under the same email address?"}
+{"customer_id": "u34", "message": "What’s your policy for returns from outside the country?"}
+{"customer_id": "u35", "message": "How can I enable the new beta features from the update notes?"}
+{"customer_id": "u36", "message": "Login works fine on the website but fails on mobile."}
+{"customer_id": "u37", "message": "My friend got a refund for the same issue but mine is still pending."}
+{"customer_id": "u38", "message": "None of the pages load after today’s update, what’s wrong?"}
+{"customer_id": "u39", "message": "Payment keeps failing and crashes the app after retry."}
+{"customer_id": "u40", "message": "I forgot my password and your reset server seems to be down."}
+{"customer_id": "u41", "message": "My shipment is delayed again, any compensation or coupon?"}
+{"customer_id": "u42", "message": "Refund request pending for a week and I’m locked out of my account."}
+{"customer_id": "u43", "message": "Received the wrong color, should I return or exchange it?"}
+{"customer_id": "u44", "message": "Live chat disconnects randomly while I’m talking to support."}
+{"customer_id": "u45", "message": "How can I delete or remove saved payment cards?"}
+{"customer_id": "u46", "message": "Email verification link expired before I could click it."}
+{"customer_id": "u47", "message": "Are your servers currently under maintenance?"}
+{"customer_id": "u48", "message": "Does express shipping apply for international orders?"}
+{"customer_id": "u49", "message": "Is there a loyalty program for frequent buyers?"}
+{"customer_id": "u50", "message": "My referral bonus didn’t get credited after signup."}
+{"customer_id": "u51", "message": "Do you have a dedicated business account option?"}
+{"customer_id": "u52", "message": "App notifications stopped showing since yesterday’s patch."}
+{"customer_id": "u53", "message": "Why can’t I add items to my cart anymore?"}
+{"customer_id": "u54", "message": "How do I track a replacement order that was just shipped?"}
+{"customer_id": "u55", "message": "Got the wrong item in the box, how do I report this?"}
+{"customer_id": "u56", "message": "My order has been stuck in ‘processing’ for three days."}
+{"customer_id": "u57", "message": "How do I get an invoice copy for my purchase?"}
+{"customer_id": "u58", "message": "Can I cancel an order that hasn’t shipped yet?"}
+{"customer_id": "u59", "message": "How do I apply store credits to my next purchase?"}
+{"customer_id": "u60", "message": "I was charged tax incorrectly—how can I fix that?"}
+{"customer_id": "u61", "message": "Why is my account temporarily suspended?"}
+{"customer_id": "u62", "message": "Do you accept PayPal or crypto payments?"}
+{"customer_id": "u63", "message": "App says ‘network error’ despite stable internet."}
+{"customer_id": "u64", "message": "Can I pre-order items before official launch?"}
+{"customer_id": "u65", "message": "How do I remove an address from my saved list?"}
+{"customer_id": "u66", "message": "App language changed automatically, how to revert it?"}
+{"customer_id": "u67", "message": "My membership tier didn’t upgrade after payment."}
+{"customer_id": "u68", "message": "I can’t upload my ID for verification, it keeps failing."}
+{"customer_id": "u69", "message": "Does support operate on weekends too?"}
+{"customer_id": "u70", "message": "Where can I submit feedback or feature requests?"}
+{"customer_id": "u71", "message": "Can I update my profile photo from the app?"}
+{"customer_id": "u72", "message": "How do I unlink my social media login from the account?"}
+{"customer_id": "u73", "message": "The app doesn’t recognize my fingerprint login anymore."}
+{"customer_id": "u74", "message": "Website shows ‘Too Many Requests’ error repeatedly."}
+{"customer_id": "u75", "message": "Why did my subscription renew without confirmation?"}
+{"customer_id": "u76", "message": "How do I download my complete order history?"}
+{"customer_id": "u77", "message": "Do you offer COD (cash on delivery) on all items?"}
+{"customer_id": "u78", "message": "What should I do if I accidentally ordered twice?"}
+{"customer_id": "u79", "message": "My app session expires every few minutes automatically."}
+{"customer_id": "u80", "message": "Do you have a dark mode option in the app?"}
+{"customer_id": "u81", "message": "I received a partial refund only, where’s the rest?"}
+{"customer_id": "u82", "message": "Is my personal data shared with third parties?"}
+{"customer_id": "u83", "message": "I keep getting logged out after every update."}
+{"customer_id": "u84", "message": "Do you provide bulk gift card options for corporates?"}
+{"customer_id": "u85", "message": "My promo code says invalid even though it’s new."}
+{"customer_id": "u86", "message": "Can I reschedule my delivery date after it’s shipped?"}
+{"customer_id": "u87", "message": "Where can I update my contact number?"}
+{"customer_id": "u88", "message": "Is there a manual for using the new dashboard features?"}
+{"customer_id": "u89", "message": "How can I verify if a seller is trusted on your platform?"}
+{"customer_id": "u90", "message": "My payment method keeps getting declined without reason."}
+{"customer_id": "u91", "message": "Is there an option to pick up from your warehouse directly?"}
+{"customer_id": "u92", "message": "Can I split payment between two cards?"}
+{"customer_id": "u93", "message": "I want to permanently delete my account data."}
+{"customer_id": "u94", "message": "How do I contact your legal or data protection officer?"}
+{"customer_id": "u95", "message": "My referral link isn’t tracking new users correctly."}
+{"customer_id": "u96", "message": "Can I upgrade my plan mid-subscription?"}
+{"customer_id": "u97", "message": "How do I stop promotional SMS notifications?"}
+{"customer_id": "u98", "message": "I want to request access to my stored data under GDPR."}
+{"customer_id": "u99", "message": "My coupon got applied but the price didn’t change."}
 {"customer_id": "u100", "message": "App says ‘invalid session token’ every time I log in."}
