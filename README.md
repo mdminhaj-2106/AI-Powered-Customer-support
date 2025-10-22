@@ -18,6 +18,10 @@ This automatically responds to customer queries by understanding intent, retriev
 ```bash
 git clone https://github.com/mdminhaj-2106/AI-Powered-Customer-support.git
 ```
+2. Give Writing permission:
+```bash
+chmod +w chat_history.jsonl
+```
 2. Build the image:
 ```bash
 docker build -t adashield .
